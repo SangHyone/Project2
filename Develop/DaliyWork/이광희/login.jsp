@@ -64,7 +64,7 @@
 								<input class="loginbutton" type="submit" value="로그인"><br>
 
 								<input class="join" type="button" value="회원가입"
-									onClick="location.href='../joinform/joinform.jsp'"><br>
+									onClick="location.href='insertForm.jsp'"><br>
 								<a href="findUserid.jsp" class="find_id">아이디 찾기 |</a> <a
 									href="findPassword.jsp" class="find_pw">비밀번호 찾기</a>
 							</div>
